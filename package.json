@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://xiaoiver.github.io/FruchtermanWorkerDemo",
   "dependencies": {
     "@antv/g-canvas": "^0.4.13",
     "@antv/g-webgpu": "^0.4.1",

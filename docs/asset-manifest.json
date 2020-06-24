@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.35cd41f5.chunk.js",
-    "main.js.map": "/static/js/main.35cd41f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
-    "static/css/2.3cb76441.chunk.css": "/static/css/2.3cb76441.chunk.css",
-    "static/js/2.739c2bb1.chunk.js": "/static/js/2.739c2bb1.chunk.js",
-    "static/js/2.739c2bb1.chunk.js.map": "/static/js/2.739c2bb1.chunk.js.map",
-    "9277e55b29df96ed6b48.worker.js": "/9277e55b29df96ed6b48.worker.js",
-    "9277e55b29df96ed6b48.worker.js.LICENSE.txt": "/9277e55b29df96ed6b48.worker.js.LICENSE.txt",
-    "9277e55b29df96ed6b48.worker.js.map": "/9277e55b29df96ed6b48.worker.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d8f9983cc17673346c75648d60e33e4a.js": "/precache-manifest.d8f9983cc17673346c75648d60e33e4a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3cb76441.chunk.css.map": "/static/css/2.3cb76441.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.739c2bb1.chunk.js.LICENSE.txt": "/static/js/2.739c2bb1.chunk.js.LICENSE.txt"
+    "main.css": "/FruchtermanWorkerDemo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/FruchtermanWorkerDemo/static/js/main.d394d87c.chunk.js",
+    "main.js.map": "/FruchtermanWorkerDemo/static/js/main.d394d87c.chunk.js.map",
+    "runtime-main.js": "/FruchtermanWorkerDemo/static/js/runtime-main.aaccaa67.js",
+    "runtime-main.js.map": "/FruchtermanWorkerDemo/static/js/runtime-main.aaccaa67.js.map",
+    "static/css/2.3cb76441.chunk.css": "/FruchtermanWorkerDemo/static/css/2.3cb76441.chunk.css",
+    "static/js/2.739c2bb1.chunk.js": "/FruchtermanWorkerDemo/static/js/2.739c2bb1.chunk.js",
+    "static/js/2.739c2bb1.chunk.js.map": "/FruchtermanWorkerDemo/static/js/2.739c2bb1.chunk.js.map",
+    "5988c760cd7a60008931.worker.js": "/FruchtermanWorkerDemo/5988c760cd7a60008931.worker.js",
+    "5988c760cd7a60008931.worker.js.LICENSE.txt": "/FruchtermanWorkerDemo/5988c760cd7a60008931.worker.js.LICENSE.txt",
+    "5988c760cd7a60008931.worker.js.map": "/FruchtermanWorkerDemo/5988c760cd7a60008931.worker.js.map",
+    "index.html": "/FruchtermanWorkerDemo/index.html",
+    "precache-manifest.8868846c3907b179fec04a8805329298.js": "/FruchtermanWorkerDemo/precache-manifest.8868846c3907b179fec04a8805329298.js",
+    "service-worker.js": "/FruchtermanWorkerDemo/service-worker.js",
+    "static/css/2.3cb76441.chunk.css.map": "/FruchtermanWorkerDemo/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/FruchtermanWorkerDemo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.739c2bb1.chunk.js.LICENSE.txt": "/FruchtermanWorkerDemo/static/js/2.739c2bb1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8c5b4be.js",
+    "static/js/runtime-main.aaccaa67.js",
     "static/css/2.3cb76441.chunk.css",
     "static/js/2.739c2bb1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.35cd41f5.chunk.js"
+    "static/js/main.d394d87c.chunk.js"
   ]
 }
